@@ -104,15 +104,3 @@ The dashboard transforms raw sales data into easy-to-understand visualizations, 
 * Presenting insights through data storytelling
 
 ---
-
-## 👩‍💻 Author
-
-### Tiya Patel
-
-Aspiring Data Analyst
-
-**Skills:** SQL • Excel • Python • Power BI • Data Visualization
-
----
-
-⭐ If you found this project interesting, consider giving it a Star!
